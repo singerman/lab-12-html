@@ -2,22 +2,40 @@
 body {
 	font-size: 12px;
 	font-family: sans-serif;
-
 }
 
-p {
-	color: #0000FF;
+p {	
 	background-color: gray;
-
 	text-decoration: underline;
 }
 
 h1 {
 	color: blue;
 	background-color: gray;
-
 	text-transform: uppercase;
+
+	margin: 20px;
+	padding: 20px;
+
+	border-style: dashed;
+	border-width: 5px;
+	border-color: red; 
 }
+#Intro{
+	border-style: solid;
+	border width: 1px;
+	border-color: black;
+}
+.Spotlight{
+	background-color: yellow;
+}	
+h2, .secondPar {
+	color: green;
+	text-transform: uppercase;
+
+	margin: 20px; 
+}
+
 
 {
 
