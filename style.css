@@ -1,0 +1,25 @@
+
+body {
+	font-size: 12px;
+	font-family: sans-serif;
+
+}
+
+p {
+	color: #0000FF;
+	background-color: gray;
+
+	text-decoration: underline;
+}
+
+h1 {
+	color: blue;
+	background-color: gray;
+
+	text-transform: uppercase;
+}
+
+{
+
+}
+
